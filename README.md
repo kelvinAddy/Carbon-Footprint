@@ -1,7 +1,9 @@
-#Carbon Footprint Calculator 🌍
+# Carbon Footprint Calculator 🌍
+
 A desktop application that estimates carbon emissions from oilfield drilling projects. Built with PyQt6, this tool enables users to calculate, visualize, and mitigate Scope 1–3 emissions with a user-friendly interface. It integrates the OpenAI GPT API for generating actionable reduction plans and uses Matplotlib for dynamic plotting of emission trends and net-zero targets.
 
-##🔍 Features
+## 🔍 Features
+
 Scope 1, 2, and 3 Emissions Input – Enter detailed fuel and flaring data for different drilling systems.
 
 Real-Time Visualization – Bar charts showing current emissions and projected net-zero paths using Matplotlib.
@@ -12,14 +14,15 @@ Drill-Specific Metrics – Customize inputs for circulatory, hoisting, rotary, a
 
 Net-Zero Timeline – Interactive chart showing how emissions decline over time with applied strategies.
 
-##🖼 Screenshots
+## 🖼 Screenshots
 
 <p align="center">
 <img src="./Assets/net-zero.png" title="Net-zero"> </p>
 <p align="center">
 <img src="./Assets/scope-1.png"  title="Scope-1"></p>
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
+
 Python 3
 
 PyQt6 – For the GUI interface
